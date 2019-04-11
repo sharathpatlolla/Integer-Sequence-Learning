@@ -95,3 +95,6 @@ In the above function call, all the data is used to form the clusters but only f
 2.	https://www.datacamp.com/community/tutorials/introduction-t-sne
 3.	https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 
+### NOTE
+
+The code and data files will be uploaded soon

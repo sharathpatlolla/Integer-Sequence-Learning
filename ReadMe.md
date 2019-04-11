@@ -1,4 +1,4 @@
-INTEGER SEQUENCE LEARNINIG - CLUSTER VISUALIZATION
+#	INTEGER SEQUENCE LEARNINIG - CLUSTER VISUALIZATION
 
 One Paragraph of project description goes here
 
@@ -20,7 +20,7 @@ scipy
 matplotlib
 ```
 
-###Required data
+###	Required data
 
 The data required to run the program is in "train.csv"
 
@@ -86,11 +86,11 @@ To get the graph for cluster visualization, the function "ClusterVisulization" h
 
 ```
 ClusterVisulization(seqArray,clusterNumArray,clusterNums[:5],1)
-``
+```
 
 In the above function call, all the data is used to form the clusters but only first five clusters are visualized
 
-###References
+###	References
 
 1.	https://www.kaggle.com/garethjns/classifying-tagging-sequences
 2.	https://www.datacamp.com/community/tutorials/introduction-t-sne

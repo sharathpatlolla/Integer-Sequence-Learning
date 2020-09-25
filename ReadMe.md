@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-The goal of this project is to develop an AI to predict the next number in a given integer sequence. Unsupervised learning (decision trees) is used to generate clusters in the training data with predefined labels. The test sequence is classified to a cluster leaf node and prediction is made with the data in the leaf node using RNN/search/ heuristics such as mean/median/mode.
+The goal of this project is to develop an AI to predict the next number in a given integer sequence. Supervised learning (decision trees) is used to generate clusters in the training data with predefined labels. The test sequence is classified to a cluster leaf node and prediction is made with the data in the leaf node using RNN/search/ heuristics such as mean/median/mode.
 
 This program is a subpart of the project in which decision trees are implemented to split the data and t-SNE is used to visualize the clusters.
 
